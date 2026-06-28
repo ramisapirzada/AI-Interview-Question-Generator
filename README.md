@@ -7,7 +7,17 @@ The AI Interview Question Generator is an AI-powered application that generates 
 The application accepts an internship role, job description, and difficulty level, then generates technical and behavioral interview questions to help candidates prepare effectively.
 
 ---
+## 📸 Project Demo
 
+### Demo 1
+
+![Demo 1](assets/demo_project.png)
+
+### Demo 2
+
+![Demo 2](assets/demo_project2.png)
+
+---
 ## ✨ Features
 
 - AI-powered interview question generation
